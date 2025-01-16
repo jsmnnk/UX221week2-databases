@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/1858-blended-canadian-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/100-canadian-rye-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/20-year-old-canadian-whisky/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
